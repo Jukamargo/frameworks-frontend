@@ -117,6 +117,18 @@ Entre os temas encontrados estão:
 
 ---
 
+### 🚂 6. Primeiro Projeto Express
+
+**Tecnologias:** Node.js • Express • JavaScript
+
+Projeto desenvolvido como introdução ao uso do **Express**, um micro-framework para Node.js, focado na criação de rotas e construção de APIs REST de forma simples e rápida.
+
+A atividade abordou a estruturação inicial de um servidor Back-End, recebimento de requisições JSON e a devolução de respostas. Também incluiu a preparação do projeto para deploy em plataformas de nuvem como Vercel e Render.
+
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-api-express)
+
+---
+
 ## 🛠️ Tecnologias
 
 | Tecnologia | Utilização |
@@ -165,3 +177,6 @@ HTML + CSS + JavaScript
     Consumo de APIs
           ↓
  Front-End + Back-End
+          ↓
+ APIs REST com Express
+```
