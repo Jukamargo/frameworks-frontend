@@ -129,6 +129,18 @@ A atividade abordou a estruturação inicial de um servidor Back-End, recebiment
 
 ---
 
+### 🎨 7. Projeto HTML e CSS
+
+**Tecnologias:** HTML5 • CSS3 • Box Model • Flexbox
+
+Projeto focado exclusivamente em estilização utilizando **CSS Externo**, reforçando conceitos essenciais como o Box Model e a organização responsiva de elementos na tela através do Flexbox.
+
+A interface foi desenhada com uma estética moderna focada em Glassmorphism, apresentando animações dinâmicas de fundo, efeitos 3D interativos (hover), e 20 elementos estilizados para demonstrar, na prática, as propriedades de conteúdo, bordas, margens, preenchimentos e alinhamentos elásticos.
+
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-api-html-css)
+
+---
+
 ## 🛠️ Tecnologias
 
 | Tecnologia | Utilização |
