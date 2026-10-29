@@ -183,7 +183,7 @@ Entre os conceitos e funcionalidades trabalhados estão:
 - Persistência local de favoritos e anotações com **AsyncStorage**;
 - Estados de carregamento, erro, lista vazia e nova tentativa.
 
-🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-react-pokedex)
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-react-pokedex) | 🚀 [Acessar deploy na Vercel](https://projeto-react-pokedex-five.vercel.app/) | ☁️ [Acessar deploy no Render](https://projeto-react-pokedex.onrender.com)
 
 ---
 
