@@ -30,7 +30,7 @@ O projeto foi desenvolvido para praticar conceitos fundamentais de Front-End, co
 
 🎨 A interface utiliza uma estética em **tons pastéis de roxo**.
 
-🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-vanilla)
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-vanilla) | 🚀 [Acessar deploy na Vercel](https://projeto-vanilla.vercel.app/) | ☁️ [Acessar deploy no Render](https://projeto-vanilla-znbn.onrender.com)
 
 ---
 
@@ -44,7 +44,7 @@ O objetivo foi compreender a estrutura de uma aplicação React e aprender conce
 
 Durante o desenvolvimento, foram explorados conceitos relacionados à construção de interfaces utilizando componentes reutilizáveis e à organização de projetos React.
 
-🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/primeiro-projeto-react)
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/primeiro-projeto-react) | 🚀 [Acessar deploy na Vercel](https://primeiro-projeto-react-ashen.vercel.app/) | ☁️ [Acessar deploy no Render](https://primeiro-projeto-react.onrender.com)
 
 ---
 
@@ -65,7 +65,7 @@ Entre os conceitos trabalhados estão:
 - Estrutura de aplicações Angular;
 - Desenvolvimento de interfaces utilizando um framework.
 
-🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/primeiro-projeto-angular)
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/primeiro-projeto-angular) | 🚀 [Acessar deploy na Vercel](https://primeiro-projeto-angular-two.vercel.app/) | ☁️ [Acessar deploy no Render](https://primeiro-projeto-angular.onrender.com)
 
 ---
 
@@ -89,7 +89,7 @@ O projeto permitiu praticar conceitos como:
 - Estruturação de aplicações web;
 - Separação entre servidor e interface.
 
-🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-api-data-hora)
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-api-data-hora) | 🚀 [Acessar deploy na Vercel](https://projeto-api-data-hora.vercel.app/) | ☁️ [Acessar deploy no Render](https://projeto-api-data-hora-frontend.onrender.com)
 
 ---
 
@@ -113,7 +113,7 @@ Entre os temas encontrados estão:
 - Ferramentas para jogos;
 - Aplicações utilizando dados externos.
 
-🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-apis)
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-apis) | 🚀 [Acessar deploy na Vercel](https://projeto-apis-zeta.vercel.app/) | ☁️ [Acessar deploy no Render](https://projeto-apis-zy6c.onrender.com)
 
 ---
 
@@ -125,7 +125,7 @@ Projeto desenvolvido como introdução ao uso do **Express**, um micro-framework
 
 A atividade abordou a estruturação inicial de um servidor Back-End, recebimento de requisições JSON e a devolução de respostas. Também incluiu a preparação do projeto para deploy em plataformas de nuvem como Vercel e Render.
 
-🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-api-express)
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-api-express) | 🚀 [Acessar deploy na Vercel](https://projeto-api-express.vercel.app/) | ☁️ [Acessar deploy no Render](https://projeto-api-express-aab3.onrender.com)
 
 ---
 
@@ -137,7 +137,53 @@ Projeto focado exclusivamente em estilização utilizando **CSS Externo**, refor
 
 A interface foi desenhada com uma estética moderna focada em Glassmorphism, apresentando animações dinâmicas de fundo, efeitos 3D interativos (hover), e 20 elementos estilizados para demonstrar, na prática, as propriedades de conteúdo, bordas, margens, preenchimentos e alinhamentos elásticos.
 
-🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-api-html-css)
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-api-html-css) | 🚀 [Acessar deploy na Vercel](https://projeto-api-html-css.vercel.app/) | ☁️ [Acessar deploy no Render](https://projeto-api-html-css.onrender.com)
+
+---
+
+### 👻 8. Projeto Angular — Historietas Assombradas (HAPCMC)
+
+**Tecnologias:** Angular • TypeScript • HTML5 • CSS3
+
+Aplicação temática interativa inspirada na animação brasileira **"Historietas Assombradas (para Crianças Malcriadas)"**, explorando a construção de uma interface rica, dinâmica e desenvolvida com o framework **Angular**.
+
+O projeto reúne informações do universo da série, apresentando um catálogo temático interativo com personagens, itens místicos, curiosidades e teorias.
+
+Entre os conceitos e funcionalidades trabalhados estão:
+
+- Arquitetura moderna com **Standalone Components**;
+- Tipagem estática com interfaces e tipos em **TypeScript**;
+- Filtragem dinâmica de personagens por categoria (*Principais*, *Amigos*, *Secundários*, *Sobrenaturais*, *Antagonistas*);
+- Gerenciamento de estado de tela (menu responsivo, player de mídia, controle de exibição de spoilers);
+- Diretivas estruturais e controle de fluxo do template Angular (`@for`, `@if` / diretivas comuns);
+- Estilização temática personalizada, com micro-interações e design responsivo;
+- Deploy e integração contínua nas plataformas **Vercel** e **Render**.
+
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-angular-hapcmc) | 🚀 [Acessar deploy na Vercel](https://projeto-angular-hapcmc.vercel.app/) | ☁️ [Acessar deploy no Render](https://projeto-angular-hapcmc.onrender.com)
+
+---
+
+### ⚛️ 9. Projeto React — Minha Pokédex
+
+**Tecnologias:** React Native • JavaScript (JSX) • Expo • React Router Native • AsyncStorage • PokéAPI
+
+Aplicativo desenvolvido na pasta **07. React** para praticar a construção de interfaces com **React Native** e **Expo**, com suporte a Android, iOS e navegador.
+
+A aplicação permite explorar os **151 Pokémon da região de Kanto**, buscar por nome ou número e consultar detalhes como tipos, altura, peso, habilidades e estatísticas. Também é possível salvar favoritos e adicionar anotações, mantendo essas informações no dispositivo com **AsyncStorage**.
+
+Entre os conceitos e funcionalidades trabalhados estão:
+
+- Criação de componentes reutilizáveis com **JSX** e passagem de **props**;
+- Gerenciamento de estado com `useState` e compartilhamento de favoritos com **Context API**;
+- Uso de `useEffect` para consultas à API e persistência de dados;
+- Renderização de listas com `FlatList` e exibição condicional de conteúdo;
+- Formulários controlados para busca e anotações de até 240 caracteres;
+- Navegação entre Pokédex, favoritos e detalhes com **React Router Native**;
+- Consumo da **PokéAPI** com `fetch`, cache em memória e tratamento de erros;
+- Persistência local de favoritos e anotações com **AsyncStorage**;
+- Estados de carregamento, erro, lista vazia e nova tentativa.
+
+🔗 [Acessar projeto no GitHub](https://github.com/Jukamargo/projeto-react-pokedex)
 
 ---
 
@@ -149,7 +195,12 @@ A interface foi desenhada com uma estética moderna focada em Glassmorphism, apr
 | 🎨 CSS3 | Estilização e layout |
 | 🟨 JavaScript | Lógica e interatividade |
 | ⚡ JavaScript Vanilla | Desenvolvimento sem frameworks |
+| 🔷 TypeScript | Tipagem estática e desenvolvimento com Angular |
 | ⚛️ React | Desenvolvimento baseado em componentes |
+| 📱 React Native | Desenvolvimento de interfaces para dispositivos móveis e web |
+| 🧰 Expo | Execução e exportação de aplicações React Native |
+| 🧭 React Router Native | Navegação entre telas |
+| 💾 AsyncStorage | Persistência local de favoritos e anotações |
 | 🅰️ Angular | Desenvolvimento de aplicações web |
 | 🟢 Node.js | Execução de JavaScript no Back-End |
 | 🚂 Express | Criação de APIs |
@@ -166,8 +217,9 @@ Este repositório tem como principais objetivos:
 - Aprender diferentes tecnologias e frameworks;
 - Compreender a estrutura de aplicações web;
 - Desenvolver interfaces interativas;
+- Criar aplicações com React Native e Expo;
 - Aprender a consumir e criar APIs;
-- Praticar JavaScript;
+- Praticar JavaScript e TypeScript;
 - Conhecer diferentes formas de organização de projetos;
 - Acompanhar minha evolução durante os estudos.
 
@@ -191,4 +243,8 @@ HTML + CSS + JavaScript
  Front-End + Back-End
           ↓
  APIs REST com Express
+          ↓
+ Aplicações com Angular & TypeScript
+          ↓
+ React Native + Expo + PokéAPI
 ```
