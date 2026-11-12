@@ -8,6 +8,24 @@ O objetivo deste repositório é registrar minha evolução no desenvolvimento d
 
 ---
 
+## 📁 Organização das pastas
+
+As pastas locais seguem a mesma numeração dos projetos apresentados neste README:
+
+| Nº | Projeto | Pasta local |
+|---|---|---|
+| 1 | Projeto Vanilla — Sudoku | `01. Vanilla` |
+| 2 | Primeiro Projeto React | `02. Primeiro Projeto React` |
+| 3 | Primeiro Projeto Angular | `03. Angular` |
+| 4 | Projeto API Data Hora | `04. Data-Hora` |
+| 5 | Projeto APIs | `05. APIs` |
+| 6 | Primeiro Projeto Express | `06. Express` |
+| 7 | Projeto HTML e CSS | `07. HTML-CSS` |
+| 8 | Projeto Angular — Historietas Assombradas | `08. Projeto-angular-hapcmc` |
+| 9 | Projeto React — Minha Pokédex | `09. React` |
+
+---
+
 ## 🚀 Projetos
 
 ### 🪻 1. Projeto Vanilla — Sudoku
@@ -167,7 +185,7 @@ Entre os conceitos e funcionalidades trabalhados estão:
 
 **Tecnologias:** React Native • JavaScript (JSX) • Expo • React Router Native • AsyncStorage • PokéAPI
 
-Aplicativo desenvolvido na pasta **07. React** para praticar a construção de interfaces com **React Native** e **Expo**, com suporte a Android, iOS e navegador.
+Aplicativo desenvolvido na pasta **09. React** para praticar a construção de interfaces com **React Native** e **Expo**, com suporte a Android, iOS e navegador.
 
 A aplicação permite explorar os **151 Pokémon da região de Kanto**, buscar por nome ou número e consultar detalhes como tipos, altura, peso, habilidades e estatísticas. Também é possível salvar favoritos e adicionar anotações, mantendo essas informações no dispositivo com **AsyncStorage**.
 
